@@ -1,6 +1,7 @@
 # PersonifyAI: An AI Chatbot for Talking to Fictional Characters and Dead People
 
-PersonifyAI is an AI-powered chatbot that lets you talk to fictional characters and dead people. It impersonates a particular persona of a public figure, allowing you to engage in a conversation with them and get a glimpse into their thoughts and personality.
+PersonifyAI is an AI-powered chatbot that lets you talk to fictional characters and dead people.
+It impersonates a particular persona of a public figure, allowing you to engage in a conversation with them and get a glimpse into their thoughts and personality.
 
 ## Features
 Engage in a conversation with a variety of fictional characters and historical figures, including musicians, actors, writers, and more.
@@ -21,8 +22,8 @@ PersonifyAI is built using a range of cutting-edge technologies, including:
 
 Python for natural language processing and machine learning
 Flask for web application development
-React for frontend development
-AWS for deployment and hosting
+HTML/CSS & JS for frontend development
+
 
 
 ## Contributing
