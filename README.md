@@ -1,4 +1,4 @@
-# Interactive Fictional Character Chatbot
+# Personify.AI
 
 This repository contains a chatbot model that enables interactive conversations with fictional characters and provides a realistic impersonation of a specific public figure's persona. The chatbot utilizes the GPT-2 language model, trained on a diverse corpus of textual data, including an autobiography and memoir, consisting of over 50,000 sentences.
 
@@ -20,8 +20,9 @@ This repository contains a chatbot model that enables interactive conversations 
 
 1. Clone the repository: `git clone https://github.com/your-username/repository.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Flask web application: `python app.py`
-4. Open your web browser and navigate to `http://localhost:5000` to access the chatbot interface.
+3. Now you need to download the weights from the link hosted in `weights.txt` and make sure you put the `Models` folder in the cloned directory
+4. Run the Flask web application: `python app.py`
+5. Open your web browser and navigate to `http://localhost:5000` to access the chatbot interface.
 
 ## Model Training and Fine-tuning
 
@@ -44,6 +45,6 @@ We would like to express our gratitude to the creators and contributors of Beaut
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email-address].
+For any inquiries or feedback, please contact parthmahe2@gmail.com.
 
 Thank you for visiting and enjoy engaging with the interactive fictional character chatbot!
