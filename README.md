@@ -1,6 +1,6 @@
-# Interactive Fictional Character Chatbot
+# Personify.AI
 
-This repository contains a chatbot model that enables interactive conversations with fictional characters and provides a realistic impersonation of a specific public figure's persona. The chatbot utilizes the GPT-2 language model, trained on a diverse corpus of textual data, including an autobiography and memoir, consisting of over 50,000 sentences.
+This project contains a chatbot model that enables interactive conversations with fictional characters and provides a realistic impersonation of a specific public figure's persona. The chatbot utilizes the GPT-2 language model, trained on a diverse corpus of textual data, including an autobiography and memoir, consisting of over 50,000 sentences.
 
 ## Features
 
